@@ -1,2 +1,2 @@
 # Interesting_datasets
-Place for exploring interesting data sets which I've found to practice my analytical skills
+Place for exploring interesting data sets which I've found for practice
